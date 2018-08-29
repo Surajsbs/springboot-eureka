@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: UserService
+server:
+  port: 8081
+eureka:
+  instance:
+    preferIpAddress: true
